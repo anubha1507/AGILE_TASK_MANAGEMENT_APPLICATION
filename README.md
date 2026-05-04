@@ -38,7 +38,7 @@ video presentation link -https://drive.google.com/file/d/1YUtRzjjbdqyxgCB5f7WsT-
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/amanyatan/TASKMANAGMENT.git
+git clone https://github.com/anubha1507/AGILE_TASK_MANAGEMENT_APPLICATION.git
 cd TASKMANAGMENT
 ```
 
